@@ -1,4 +1,5 @@
 # Cloud Net Final Project
+This is updated for git tutorial
 Hopefully you had a great time and are now capable of applying what you learnt and deploy your own site as your final project.
 
 ## Steps
